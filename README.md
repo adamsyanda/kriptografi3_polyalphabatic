@@ -10,14 +10,7 @@
 | **Mata Kuliah** | Kriptografi                  |
 
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/91085882/137566814-9c8c078c-1c3e-475c-b23d-7f4922f74beb.gif"/>
-</p>
-<p align="center">
-<a href="https://github.com/akmalabdilah"><img title="Author" src="https://img.shields.io/discord/102860784329052160?color=BLUE&label=M.%20AKMAL%20AL%20ABDILAH1&logo=GITHUB&logoColor=BLACK&style=plastic"></a>
-<p align="center">
 
-<hr>
 
 ## Kriptografi membuat sistem  enkripsi  polyalphabet chipper 
 
@@ -30,8 +23,8 @@
 </p>
 
 
-![Gambar 2](screenshoot/2.png)
-![Gambar 1](screenshoot/1.png)
+![1](https://github.com/adamsyanda/kriptografi3_polyalphabatic/assets/92682351/799ad1c0-db14-443d-87ae-353f8ad09a3e)
+
 <p>
 Seperti yang di tampilkan gambar di atas Merupakan gagasan baru dalam perkembangan kode kaisar untuk menggunakan kunci laian yang di sebut Polyalphabetic. Teknik ini cenderung menggunakan kunci berupa huruf dan tidak ada pengunaan huruf yang di ulang. Penggunaan tidak hanya dengan satu kunci tetapi bisa mengunakan lebih dari satu kunci.
 
