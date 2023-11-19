@@ -88,14 +88,4 @@ print("Ciphertext    :",ciphertext)
 
 
 <P>
-Oke sekian penjelasan singkat saya mengenai tugas kriptografi kali ini jika kalian masih penasara kalian bisa mencoba file lengkap  polyalphabet chiper code yang ada di atas kurang lebih saya mohon maaf.
-</P>
-
-<p>
- sekian and selesai.
-</p>
-
-<div>
-<h2 align="center">Thanks For Reading!!!</h2>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/91085882/222731693-24383140-7623-4e7a-a528-6621380b7be8.gif">
+Oke sekian dari saya Terima Kasih.
